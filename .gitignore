@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+source_data/
+intermediate/
+outputs/
+data/raw/
+data/sample/demo_fund_annualized_result.csv
+*.inspect.ndjson
+*.tmp
+~$*
